@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
 import { Shield, Sparkles, Wrench, HeartPulse, FileCheck, ArrowRight } from "lucide-react";
-import gardiennageImg from "@/assets/services/gardiennage.jpg";
+import gardiennageImg from "@/assets/security/11.png";
 import nettoyageImg from "@/assets/services/nettoyage.jpg";
 import entretienImg from "@/assets/services/entretien.jpg";
 import hygieneImg from "@/assets/services/hygiene.jpg";

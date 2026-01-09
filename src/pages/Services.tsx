@@ -3,7 +3,7 @@ import Footer from "@/components/layout/Footer";
 import { Shield, Sparkles, Wrench, HeartPulse, FileCheck, Check } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Link } from "react-router-dom";
-import gardiennageImg from "@/assets/services/gardiennage.jpg";
+import gardiennageImg from "@/assets/security/1.png";
 import nettoyageImg from "@/assets/services/nettoyage.jpg";
 import entretienImg from "@/assets/services/entretien.jpg";
 import hygieneImg from "@/assets/services/hygiene.jpg";

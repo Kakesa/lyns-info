@@ -4,8 +4,8 @@ import { X, Filter } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
 // Gallery images imports
-import security1 from "@/assets/gallery/security-1.jpg";
-import security2 from "@/assets/gallery/security-2.jpg";
+import security1 from "@/assets/security/7.png";
+import security2 from "@/assets/security/9.png";
 import cleaning1 from "@/assets/gallery/cleaning-1.jpg";
 import cleaning2 from "@/assets/gallery/cleaning-2.jpg";
 import maintenance1 from "@/assets/gallery/maintenance-1.jpg";
